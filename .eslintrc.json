@@ -22,5 +22,8 @@
         "react",
         "prettier"
     ],
-    "rules": {}
+    "rules": {
+        "react/jsx-filename-extension": "off",
+        "react/no-unescaped-entities": "off"
+    }
 }
